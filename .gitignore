@@ -1,0 +1,4 @@
+CPP/7zip/Bundles/SFXSetup/**/*.obj
+CPP/7zip/Bundles/SFXSetup/**/*.sfx
+CPP/7zip/Bundles/SFXSetup/**/*.res
+CPP/7zip/Bundles/SFXSetup/**/*.pch
